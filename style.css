@@ -456,13 +456,13 @@ box-shadow: .2rem .2rem 0.5rem #555;
 }
 .project-name{
     display: none;
-    font-size: 0;
+    font-size: 0.5rem;
 }
 .project-info{
     display: none;
-    font-size: 0;
+    font-size: 0.5rem;
 }
 .project-link{
-    font-size: 0;
+    font-size: 1.2rem;
 }
 }
