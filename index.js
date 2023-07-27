@@ -17,10 +17,3 @@ window.addEventListener('scroll', () => {
 );
 
 
-sections.forEach((section,i) => {
-    if(window.pageYOffset >= section.offsetTop){
-        navbarLinks[i].classList.add("change");
-
-    }
-});
-// if(window.scrollY + )
